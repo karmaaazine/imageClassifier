@@ -87,9 +87,8 @@ Fantastic! this will open your app with Monikube IP.
 ---
 
 ## App UI:
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/a0915253-f24f-40a9-8a3f-a5356a38edbf" />
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/454a5031-494d-477e-abb5-7d88282904cf" />
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/bceda944-0965-4729-8e8b-6246c06539a1" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/3cf1e06a-7288-4fbd-bed7-744a00420efc" />
+
 
 ---
 

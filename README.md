@@ -80,7 +80,8 @@ minikube service mobilenet-service
 ```bash
 minikube dashboard
 ```
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/a3940059-3083-4358-92d8-5111e1e08431" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/a6ace3ae-331f-414d-845e-904ea5aa10c9" />
+
 
 Fantastic! this will open your app with Monikube IP.
 ---
@@ -105,7 +106,8 @@ locust
 ```
 
 4. **Open the UI**
-<img width="953" alt="image" src="https://github.com/user-attachments/assets/32928cb5-3d41-485e-b202-95c7d2c8aadc" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/28b8d452-837e-4dbf-b005-41d563b12cc1" />
+
 
 ---
 

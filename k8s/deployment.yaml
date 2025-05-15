@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mobilenet-api-deployment
+spec:
+  replicas: 2  # Set number of replicas for scaling
+  selector:
+    matchLabels:
+      app: mobilenet-api
+  template:
+    metadata:
+      labels:
+        app: mobilenet-api
+    spec:
+      containers:
+      - name: mobilenet-api
+        image: mobilenet-api:latest
+        imagePullPolicy: Never  # Prevent Kubernetes from pulling the image
+        ports:
+        - containerPort: 8000
+        resources:
+          limits:
+            cpu: "1"
+            memory: "1Gi"
+          requests:
+            cpu: "0.5"
+            memory: "512Mi"

@@ -75,15 +75,15 @@ docker build -t mobilenet-api:latest .
 ```bash
 minikube service mobilenet-service
 ```
+Fantastic! Now This will open you app with Minikube IP.
 
 4. **Visualize Minikube**
 ```bash
 minikube dashboard
 ```
+
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/a6ace3ae-331f-414d-845e-904ea5aa10c9" />
 
-
-Fantastic! this will open your app with Monikube IP.
 ---
 
 ## App UI:
